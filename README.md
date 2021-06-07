@@ -30,7 +30,7 @@ very performant. While other frameworks like Angular.js use "dirty checking"
 changed, React _already knows_ because we use a built-in function to let it know
 what changes we'd like to make!
 
-> **Note**: In this code-along, use the code in the `src` to follow along. To
+> **Note*: In this code-along, use the code in the `src` to follow along. To
 > run the code, make sure to `npm install & npm start` in the terminal.
 
 For example, let's say we have a component with a button, and a bit of text to
