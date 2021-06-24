@@ -28,7 +28,7 @@ and its UI will most likely also change. Using a setter function like this is
 very performant. While other frameworks like Angular.js use "dirty checking"
 (continuously checking for changes in an object) to see if a property has
 changed, React _already knows_ because we use a built-in function to let it know
-what changes we'd like to make!
+what changes we'd like to make!.
 
 > **Note**: In this code-along, use the code in the `src` to follow along. To
 > run the code, make sure to `npm install & npm start` in the terminal.
